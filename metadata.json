@@ -1,0 +1,5 @@
+{
+  "name": "47e-CacheMaster: Distributed Caching Interactive",
+  "description": "An interactive educational platform visualizing distributed caching concepts, from single-node limitations to consistent hashing rings.",
+  "requestFramePermissions": []
+}
